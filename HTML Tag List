@@ -1,0 +1,58 @@
+<!--DOCUMENT STRUCTURE TAGS for HTML5-->
+
+<!--This is the DOCTYPE tag for HTML5-->
+<!DOCTYPE html>
+
+<!--This is the HTML tag for HTML5-->
+<html lang="en-US">
+
+<head>
+
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="index.css">
+
+    <title>Title Goes Here</title>
+
+</head>
+
+
+
+<body>
+This is a test.
+</body>
+
+</html>
+
+
+<!--BLOCK TAGS for HTML5-->
+
+
+<article></article>
+
+<section></section>
+
+<header></header>
+
+<footer></footer>
+
+<!--This is the DIV tag for HTML5-->
+
+<div class="" id=""></div>
+
+<p class=""></p>
+
+
+
+
+
+<!--MEDIA TAGS for HTML5-->
+
+
+<!--This is the IMAGE tag for HTML5-->
+
+<img src="" alt="" />
+
+<!--This is the LINK tag for HTML5-->
+
+<a class="" href=""></a>
+<a class="" href="mailto:name@mail.com"></a>
